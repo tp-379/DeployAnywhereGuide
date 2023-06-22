@@ -10,11 +10,11 @@
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
   </a>
-  <a href="https://github.com/yourusername/DeployAnywhereGuide/issues">
-    <img src="https://img.shields.io/github/issues/yourusername/DeployAnywhereGuide.svg" alt="GitHub Issues" />
+  <a href="https://github.com/CodePuzzler/DeployAnywhereGuide/issues">
+    <img src="https://img.shields.io/github/issues/CodePuzzler/DeployAnywhereGuide.svg" alt="GitHub Issues" />
   </a>
   <a href="https://github.com/yourusername/DeployAnywhereGuide/pulls">
-    <img src="https://img.shields.io/github/issues-pr/yourusername/DeployAnywhereGuide.svg" alt="GitHub Pull Requests" />
+    <img src="https://img.shields.io/github/issues-pr/CodePuzzler/DeployAnywhereGuide.svg" alt="GitHub Pull Requests" />
   </a>
 </p>
 
