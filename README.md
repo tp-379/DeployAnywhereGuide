@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="repository_logo.png" alt="DeployAnywhereGuide Logo" width="200" />
+  <img src="deploy-anywhere-guide-logo.png" alt="DeployAnywhereGuide Logo" width="200" />
 </p>
 
 <h1 align="center">DeployAnywhereGuide</h1>
